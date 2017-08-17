@@ -33,5 +33,5 @@
 
 # References
 
-[http://iquilezles.org/www/articles/distfunctions/distfunctions.htm](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm)
-[https://github.com/christopherbatty/SDFGen](https://github.com/christopherbatty/SDFGen)
+* [http://iquilezles.org/www/articles/distfunctions/distfunctions.htm](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm)
+* [https://github.com/christopherbatty/SDFGen](https://github.com/christopherbatty/SDFGen)
